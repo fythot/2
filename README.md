@@ -11,10 +11,15 @@
 
 # INSTALL FOR VPS
 $ sudo apt-get update
+
 $ sudo apt-get install python3-pip
+
 $ sudo apt-get install python3-tz
+
 $ sudo pip3 install requests
+
 $ sudo pip3 install rsa 
+
 $ sudo pip3 install bs4 
 $ sudo pip3 install gtts 
 $ sudo pip3 install goslate
