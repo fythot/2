@@ -3,7 +3,7 @@
 # YOUTUBE
 # [SUBSCRIBE](https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ)
 
-# ADITMADZS PUBLIC BOT
+# [ADITMADZS PUBLIC BOT](http://line.me/ti/p/~aditmadzsbot1)
 
 # NB
 # KALO COMMAND MEDIA ADA YANG GA JALAN BERARTI APINYA MATI
