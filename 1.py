@@ -12,7 +12,7 @@ from googletrans import Translator
 import youtube_dl
 #JANGAN APUS MID CREATOR, OWNER, ADMIN, TAMBAHIN AJA MID LU NGENTOD
 #aditmadzs = LineClient()
-aditmadzs = LineClient(authToken='TOKEN LU')
+aditmadzs = LineClient(authToken='auth_')
 aditmadzs.log("Auth Token : " + str(aditmadzs.authToken))
 channel = LineChannel(aditmadzs)
 aditmadzs.log("Channel Access Token : " + str(channel.channelAccessToken))
@@ -22,10 +22,10 @@ call = aditmadzs
 
 mid = aditmadzs.getProfile().mid
 
-admin = ["u874a7502c02896b2edbb3445c2615d35","MID LU"]
+admin = ["ube187443474747c3ec352e7efeb48c1b"]
 
 KAC = [aditmadzs]
-Bots = ["MID LU"]
+Bots = ["ube187443474747c3ec352e7efeb48c1b"]
 Aditmadzs = admin
 
 welcome = []
@@ -106,8 +106,8 @@ wait = {
     "Respontag":"Tag gua pasti kesel ye khaaan...🙌😂",
     "welcome":"Selamat Datang",
     "leave":"lah cabut doi, baper x yak 😂",
-    "comment":"Like like & like by Aditmadzs\n\n🔰Creator : http://line.me/ti/p/~adit_cmct",
-    "message":"Thanks For Add Me (^_^)\nAuto Add Chat\n\n🔰Creator : http://line.me/ti/p/~adit_cmct",
+    "comment":"like back\n\n🔰Creator : http://line.me/ti/p/~situ.sehat",
+    "message":"Thanks For Add Me (^_^)\nAuto Add Chat\n\n🔰Creator : http://line.me/ti/p/~situ.sehat",
     }
 
 read = {
@@ -534,7 +534,7 @@ def infomeme():
     return helpMessage2
 def listharga():
     helpMessage3 = """
-✍️ Creator : http://line.me/ti/p/~adit_cmct
+✍️ Creator : http://line.me/ti/p/~situ.sehat
 """
 
 def translate():
